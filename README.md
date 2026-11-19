@@ -1,7 +1,7 @@
 # Hi, I'm Cansu 👋
 
 **Data Analyst focused on climate & sustainability data**
-Based in Istanbul · open to roles in Germany, Austria, Switzerland, Belgium
+Based in Istanbul
 
 ## 🌱 What I work on
 - Analysing atmospheric and climate time series (CO₂, temperature)
