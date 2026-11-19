@@ -15,7 +15,6 @@ Python (pandas, NumPy, matplotlib) · R · Excel · SQL · Git
 | Project | What it shows |
 |---|---|
 | [CO₂ at Baring Head](https://github.com/cyamanlar/co2-baring-head-analysis) | Descriptive statistics & trends in monthly atmospheric CO₂ |
-
 | [ENSO & CO₂ growth rate](https://github.com/cyamanlar/enso-co2-growth-analysis) | Lagged correlation, Markov chains, AR models & ML forecast of CO₂ growth vs ENSO |
 
 ## 🗣️ Languages
