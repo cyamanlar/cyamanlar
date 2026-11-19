@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Cansu 👋
 
-<!--
-**cyamanlar/cyamanlar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Analyst focused on climate & sustainability data**
+Based in Istanbul · open to roles in Germany, Austria, Switzerland, Belgium
 
-Here are some ideas to get you started:
+## 🌱 What I work on
+- Analysing atmospheric and climate time series (CO₂, temperature)
+- Turning environmental data into clear, decision-ready insights
+- Sustainability reporting & data-driven ESG analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tools
+Python (pandas, NumPy, matplotlib) · R · Excel · SQL · Git
+
+## 📂 Featured projects
+| Project | What it shows |
+|---|---|
+| [CO₂ at Baring Head](https://github.com/cyamanlar/co2-baring-head-analysis) | Descriptive statistics & trends in monthly atmospheric CO₂ |
+
+## 🗣️ Languages
+Turkish (native) · English (fluent) · German (A2)
+
+📫www.linkedin.com/in/cansu-yamanlar-0436b353
