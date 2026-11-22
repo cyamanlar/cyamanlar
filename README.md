@@ -14,6 +14,7 @@ Python (pandas, NumPy, matplotlib) · R · Excel · SQL · Git
 ## 📂 Featured projects
 | Project | What it shows |
 |---|---|
+| [Istanbul flood catastrophe model](https://github.com/cyamanlar/istanbul-flood-cat-model) | Insurance-grade probabilistic flood model: ERA5 1950–2025 with gauge-based bias correction, GEV & 50,000-year stochastic event set, 146k buildings with HAND flood zones, EP curve, AAL & 1-in-200 (Solvency II) loss with uncertainty ranges, validation against the 2009 and 2026 Istanbul floods, climate stress test and a [working paper](https://github.com/cyamanlar/istanbul-flood-cat-model/blob/main/docs/paper.pdf) – [▶ try the risk dashboard](https://cyamanlar.github.io/istanbul-flood-cat-model/simulator/) |
 | [CO₂ at Baring Head](https://github.com/cyamanlar/co2-baring-head-analysis) | Descriptive statistics & trends in monthly atmospheric CO₂ |
 | [ENSO & CO₂ growth rate](https://github.com/cyamanlar/enso-co2-growth-analysis) | Lagged correlation, Markov chains, AR models & ML forecast of CO₂ growth vs ENSO |
 | [LTFM Forecast Dashboard](https://github.com/cyamanlar/ltfm-forecast-dashboard) | Interactive aviation weather & METAR forecast dashboard for Istanbul Airport (LTFM) |
