@@ -22,6 +22,7 @@ Python (pandas, NumPy, matplotlib) · R · Excel · SQL · Git
 | [Rooftop solar in İstanbul](https://github.com/cyamanlar/istanbul-rooftop-solar) | Hourly PV model from PVGIS satellite data: Erbs split, isotropic-sky tilt optimisation, 5 kWp yield & capacity factor, cloudy-day loss, payback with EPDK tariff, phone light-sensor check |
 | [Urban CO₂ pollution events](https://github.com/cyamanlar/bao-co2-excess-distributions) | Distribution fitting of CO₂ excess on polluted days at the Boulder Atmospheric Observatory: Normal, Lognormal, Gamma, Weibull & Gumbel fits, Q-Q/P-P plots, χ² & K-S tests, AIC/BIC, tail risk & seasonality |
 | [Synoptic Map Drawing Trainer](https://github.com/cyamanlar/synoptic-map-drawing-trainer) | Browser & Python app to practise isobar, contour & isotherm analysis with scoring and printable answer keys – [try it](https://cyamanlar.github.io/synoptic-map-drawing-trainer/web/) |
+| [Chaos theory & noise](https://github.com/cyamanlar/chaos-theory) | Lorenz system & butterfly effect, Lyapunov exponent & predictability horizon, fractals & Hurst exponent, harmonic (Fourier) noise reduction, links to ensemble forecasting & ML weather models – [▶ play Lorenz's desk](https://cyamanlar.github.io/chaos-theory/) |
 
 ## 🗣️ Languages
 Turkish (native) · English (fluent) · German (A2)
