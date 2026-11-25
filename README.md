@@ -9,7 +9,7 @@ Based in Istanbul
 - Sustainability reporting & data-driven ESG analysis
 
 ## 🛠️ Tools
-Python (pandas, NumPy, matplotlib) · R · Excel · SQL · Git
+Python (pandas, NumPy, matplotlib) · VSCode · Excel · SQL · Git
 
 ## 📂 Featured projects
 | Project | What it shows |
